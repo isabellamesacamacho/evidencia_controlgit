@@ -1,0 +1,5 @@
+Calificaciones semana 3:
+Control Git: 4.5
+Programacion Phython: 4.0
+Programacion HTML: 3.5
+Bases de datos: 5.0
