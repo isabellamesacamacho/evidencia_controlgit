@@ -1,0 +1,10 @@
+PROGRAMACION ORIENTADA A OBJETOS 
+Evidencias: crear una carpeta con 5 archivos y en el main se importa a la clase hija como en el ejemplo, que utilice los atributos de la clase madre. 
+Ejemplo de herencia y 
+Dos herencias coherentes
+Dos clases
+mail
+son 5 archivos en total.
+Casos de herencia aquí en este repli: https://repl.it/@NKrdona/Programacion-Orientada-a-Objetos#main.cpp
+Alumnos y personas – tema libre. Se guia con el ejmpllo del repli ↑↑
+https://repl.it/@NKrdona/Cajero-Automatico#main.cpp
